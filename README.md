@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Jorge 👋
 
-<!--
-**jorge170102/jorge170102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Web  
+📊 Interesado en Data Analysis y Business Intelligence  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- JavaScript
+- PHP
+- Firebase
+- SQL Server
+- Power BI
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- 🛒 addupfast – App de compras inteligentes
+- 📊 Dashboard de análisis de usuarios
+- 🌐 Sistema web con login y gráficos
+
+## 📫 Contacto
+- LinkedIn
+- Email
