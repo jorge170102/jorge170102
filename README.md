@@ -4,10 +4,10 @@
 📊 Interesado en Data Analysis y Business Intelligence  
 
 ## 🚀 Tecnologías
-- JavaScript
-- PHP
-- Firebase
-- SQL Server
+- JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+- PHP ![PHP](https://img.shields.io/badge/PHP-blue)
+- Firebase ![Firebase](https://img.shields.io/badge/Firebase-orange)
+- SQL Server ![SqlServer](https://img.shields.io/badge/SQL-yellow)
 - Power BI
 - React
 
@@ -19,6 +19,5 @@
 ## 📫 Contacto
 - LinkedIn
 - Email
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-blue)
-![Firebase](https://img.shields.io/badge/Firebase-orange)
+
+
