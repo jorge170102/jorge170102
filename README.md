@@ -19,3 +19,6 @@
 ## 📫 Contacto
 - LinkedIn
 - Email
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-blue)
+![Firebase](https://img.shields.io/badge/Firebase-orange)
