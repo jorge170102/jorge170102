@@ -74,7 +74,6 @@ Me interesa participar en desafíos de **desarrollo web, ingeniería de software
 ## 📬 Contacto
 
 [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge631jaramillo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO/)
 
 <div align="center">
 
